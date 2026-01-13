@@ -157,6 +157,10 @@ h3 {
 
  p {
   margin: 14px 0;
+  font-size: 19px;
+  }
+  .final {
+    font-size: 14px;
   }
 
 .hero {
