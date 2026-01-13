@@ -157,7 +157,13 @@ h3 {
 
  p {
   margin: 14px 0;
-  font-size: 19px;
+  font-size: 20px;
+  }
+  li {
+    font-size: 20px;
+  }
+  .verde{
+    font-size: 14px;
   }
   .final {
     font-size: 14px;
@@ -371,7 +377,7 @@ h3 {
   }
 
   p {
-    font-size: 0.95rem;
+    font-size: 20px;
   }
 
   .hero-img {
